@@ -49,3 +49,15 @@ bt.wealth.plot()
 
 st.pyplot()
 
+#
+
+#
+
+#
+
+df3 = pd.DataFrame()
+
+
+print(df3)
+
+
