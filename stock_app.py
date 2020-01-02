@@ -49,14 +49,15 @@ bt.wealth.plot()
 
 st.pyplot()
 
-# TESTING TESTING
-# THIS IS IN NEW BRANCH BUT SHOULD BE IN MASTER NOW
+#
+
+#
+
+#
+
+df3 = pd.DataFrame()
 
 
-df2 = pd.DataFrame()
-
-print(df2)
-
-
+print(df3)
 
 
